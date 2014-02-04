@@ -220,7 +220,8 @@
     <string name="placeholder_timestamp">2012/05/18 12:23 PM</string>
     <string name="placeholder_media_time">12:23:45</string>
     
-    <string name="instant_upload_on_wifi">Upload pictures via WiFi only</string>
+    <string name="instant_upload_on_wifi">Only via WiFi</string>
+    <string name="instant_upload_on_wifi_summary">Allows instant upload only via WiFi connection</string>
     <string name="instant_upload_path">/InstantUpload</string>
     <string name="conflict_title">Update conflict</string>
     <string name="conflict_message">Remote file %s is not synchronized with local file. Continuing will replace content of file on server.</string>

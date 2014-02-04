@@ -33,7 +33,8 @@
                         android:summary="@string/prefs_instant_upload_summary"/>
     <CheckBoxPreference android:dependency="instant_uploading" 
         				android:disableDependentsState="true" 
-        				android:title="@string/instant_upload_on_wifi" 
+        				android:title="@string/instant_upload_on_wifi"
+        				android:summary="@string/instant_upload_on_wifi_summary" 
         				android:key="instant_upload_on_wifi"/>
     <!-- DISABLED FOR RELEASE UNTIL FIXED 
     CheckBoxPreference android:key="log_to_file" 
