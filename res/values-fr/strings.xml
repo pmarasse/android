@@ -2,13 +2,13 @@
 <resources>
   <string name="about_android">%1$s Android App</string>
   <string name="about_version">version %1$s</string>
-  <string name="actionbar_sync">Actualiser le compte</string>
-  <string name="actionbar_upload">Charger</string>
+  <string name="actionbar_sync">Actualiser</string>
+  <string name="actionbar_upload">Téléverser</string>
   <string name="actionbar_upload_from_apps">Contenu d\'une autre application</string>
   <string name="actionbar_upload_files">Fichiers</string>
   <string name="actionbar_open_with">Ouvrir avec</string>
-  <string name="actionbar_mkdir">Créer un répertoire</string>
-  <string name="actionbar_settings">Paramètres</string>
+  <string name="actionbar_mkdir">Créer un dossier</string>
+  <string name="actionbar_settings">Réglages</string>
   <string name="actionbar_see_details">Détails</string>
   <string name="prefs_category_general">Général</string>
   <string name="prefs_category_more">Plus</string>
@@ -30,7 +30,7 @@
   <string name="recommend_subject">Essayez %1$s sur votre smartphone !</string>
   <string name="recommend_text">J\'aimerais vous inviter à utiliser %1$s sur votre smartphone !\nTéléchargez-le ici : %2$s</string>
   <string name="auth_check_server">Vérifier le serveur</string>
-  <string name="auth_host_url">Adresse du serveur https://...</string>
+  <string name="auth_host_url">Adresse du serveur https://…</string>
   <string name="auth_username">Nom d\'utilisateur</string>
   <string name="auth_password">Mot de passe</string>
   <string name="auth_register">Nouveau dans %1$s ?</string>
@@ -55,6 +55,7 @@
   <string name="filedetails_download">Télécharger</string>
   <string name="filedetails_sync_file">Actualiser le fichier</string>
   <string name="filedetails_renamed_in_upload_msg">Le fichier a été renommé en %s pendant le téléversement</string>
+  <string name="action_share_file">Partager le lien</string>
   <string name="common_yes">Oui</string>
   <string name="common_no">Non</string>
   <string name="common_ok">OK</string>
@@ -63,7 +64,7 @@
   <string name="common_cancel">Annuler</string>
   <string name="common_save_exit">Sauvegarder &amp; Quitter</string>
   <string name="common_error">Erreur</string>
-  <string name="common_loading">Chargement ...</string>
+  <string name="common_loading">Chargement…</string>
   <string name="common_error_unknown">Erreur Inconnue </string>
   <string name="about_title">À propos de</string>
   <string name="change_password">Changer de mot de passe</string>
@@ -74,7 +75,7 @@
   <string name="uploader_upload_in_progress_ticker">Téléversement…</string>
   <string name="uploader_upload_in_progress_content">Envoi du fichier %2$s en cours, %1$d%% effectués</string>
   <string name="uploader_upload_succeeded_ticker">Téléversement réussi</string>
-  <string name="uploader_upload_succeeded_content_single">Le fichier %1$s a été envoyé avec succès</string>
+  <string name="uploader_upload_succeeded_content_single">Le fichier %1$s a été envoyé.</string>
   <string name="uploader_upload_failed_ticker">Échec de l\'envoi</string>
   <string name="uploader_upload_failed_content_single">L\'envoi de %1$s a échoué</string>
   <string name="downloader_download_in_progress_ticker">Téléchargement en cours…</string>
@@ -155,7 +156,7 @@
   <string name="auth_expired_oauth_token_toast">Votre autorisation a expiré. Merci de vous authentifier à nouveau</string>
   <string name="auth_expired_basic_auth_toast">Veuillez saisir le mot de passe courant</string>
   <string name="auth_expired_saml_sso_token_toast">Votre session a expiré. Merci de vous reconnecter</string>
-  <string name="auth_connecting_auth_server">Connexion au serveur d\'authentification...</string>
+  <string name="auth_connecting_auth_server">Connexion au serveur d\'authentification…</string>
   <string name="auth_unsupported_auth_method">Le serveur ne supporte pas cette méthode d\'authentification</string>
   <string name="auth_unsupported_multiaccount">%1$s ne supporte pas les comptes multiples</string>
   <string name="fd_keep_in_sync">Maintenir le fichier à jour</string>
@@ -180,7 +181,7 @@
   <string name="filedisplay_unexpected_bad_get_content">Problème inattendu ; veuillez essayer une autre app pour la sélection du fichier</string>
   <string name="filedisplay_no_file_selected">Aucun fichier sélectionné</string>
   <string name="oauth_check_onoff">Connexion avec aAuth2.</string>
-  <string name="oauth_login_connection">Connexion au serveur aAuth2...</string>
+  <string name="oauth_login_connection">Connexion au serveur aAuth2…</string>
   <string name="ssl_validator_header">L\'identité du site ne peut être vérifiée</string>
   <string name="ssl_validator_reason_cert_not_trusted">- Le certificat du serveur n\'est pas sûr</string>
   <string name="ssl_validator_reason_cert_expired">- Le certificat du serveur a expiré</string>
